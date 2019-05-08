@@ -1,0 +1,2 @@
+2019/05/08 15:52:53 - __main__ - INFO - 28 - firstworkday - today is 20190101
+2019/05/08 15:52:53 - urllib3.connectionpool - DEBUG - 205 - connectionpool - Starting new HTTP connection (1): api.goseek.cn:80
